@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
     private LinearLayoutManager linearLayoutManager;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        96
+
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         rvQuote = findViewById(R.id.rv_quote);
